@@ -16,3 +16,6 @@ Ubuntu/Linux: sudo apt update && sudo apt install ffmpeg
 Windows: Download the binaries from the official FFmpeg site and add the /bin folder to your System PATH.
 2. Environment Setup
 Once the prerequisites are met, you can proceed with the Python library installation:
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
