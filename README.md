@@ -2,5 +2,5 @@
 
 ## Getting started
 
-This repository is currently a scaffold. Add your project code here.
+Subject: feat: migrate to Python 3 and integrate YTD-FFmpeg for media analysis
 
